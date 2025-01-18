@@ -1,6 +1,6 @@
 **Heey, I'm Marina! 👋**
 
-I’m a passionate Data Scientis with over a year of industry experience and several completed projects in the field. I’m always eager to learn and grow, and enjoy tackling challenges that push me to think creatively and innovate.
+I’m a passionate Data Scientist with over a year of industry experience and several completed projects in the field. I’m always eager to learn and grow, and enjoy tackling challenges that push me to think creatively and innovate.
 
  I’m excited to explore new opportunities where I can contribute my skills and make an impact 🤗
  
